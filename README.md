@@ -6,3 +6,4 @@ Requirements:
 
 > OpenSSL for Hash class
 
+For more information check our [Wiki](https://github.com/Anddrw/maelstrom-cpp-helpers/wiki)!
