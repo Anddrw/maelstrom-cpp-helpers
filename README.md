@@ -6,6 +6,6 @@ C++ Helpers with various functions.
 - OpenSSL for Hash class.
 
 ### Component documentation
-- For more info checkout the [https://github.com/Anddrw/maelstrom-cpp-helpers/wiki/Class-Guide](Wiki)!
+- For more info checkout the [Wiki](https://github.com/Anddrw/maelstrom-cpp-helpers/wiki/Class-Guide)!
 
 
